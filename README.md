@@ -1,4 +1,4 @@
-# Torrent Naming
+# Media Naming
 
 Organize downloaded movies and TV episodes into a consistent media library. The command-line organizer reads release names, identifies titles and episode numbers, looks up metadata, and creates a plan that you can review before applying.
 
