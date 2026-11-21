@@ -1,0 +1,13 @@
+pandas
+torch
+openai
+mlflow>=3.0.0
+transformers
+sentence-transformers
+scikit-learn
+jupyter
+notebook
+tqdm
+requests
+beautifulsoup4
+rich
